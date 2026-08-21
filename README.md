@@ -51,7 +51,7 @@ Scaling hyperbolic transformer training for protein-ligand binding inference. Th
 
 ## Connect
 
-- [Portfolio](http://rayswan.ai) — projects, writing, interactive demos
+- [Portfolio](http://rswan.org) — projects, writing, interactive demos
 - [LinkedIn](https://www.linkedin.com/in/ray-swan-b973525/) — professional background
 - [Google Scholar](#) — publications (coming soon)
 
