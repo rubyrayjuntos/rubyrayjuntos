@@ -1,57 +1,27 @@
-# Ray Swan — AI Systems Architect
+# Ray Swan — GenAI / ML Architect
 
-> Bridging deep mathematical research and production-grade AI infrastructure.
+I join when operations, commerce, or science have outgrown their systems — and I ship both the product people will use and the AI platform underneath it.
 
-I build end-to-end AI systems — from hyperbolic geometry and protein-ligand inference to enterprise MLOps platforms and governed agent runtimes.
+Hiring catalog: [SYSTEMS on GitHub Pages](https://rubyrayjuntos.github.io/rswan-portfolio/). Cards stay 4–6 chips. READMEs may name more nouns. I claim only what the repos contain.
 
----
+## Six pins
 
-## What I Do
+| Pin | What it is | Stack | Repo |
+| --- | --- | --- | --- |
+| **Hub** | SYSTEMS catalog — six product pins, two resume cuts, one spine | Pages | [rswan-portfolio](https://github.com/rubyrayjuntos/rswan-portfolio) |
+| **Tokyo Eye** | Poincaré GNN / MoE structural inference on FastAPI + pgvector. Public showcase; platform is private. | Hyperbolic GNN, e3nn, MoE, FastAPI, pgvector, Terraform | [hgnn-protein-ligand](https://github.com/rubyrayjuntos/hgnn-protein-ligand) |
+| **NeuroNote** | Dual-kernel agent runtime: Guest proposes, gatekeeper verifies, Host is the only path that executes. | PVA / Dual Kernel, QuickJS WASM, Honesty Oracle, Zod, Gemini | [Neuronote](https://github.com/rubyrayjuntos/Neuronote) |
+| **Canon Forge** | Character-reference architect — identity, set, and shot contracts in front of the image/video model. | Identity Lock, Shot Contracts, Gemini, xAI, Veo, Express | [canon-forge](https://github.com/rubyrayjuntos/canon-forge) |
+| **AI/ML Ops Factory** | Terraform generator for governed Azure ML project repos (OIDC CI). | Terraform, Azure ML, OIDC, GitHub Actions, Generator | [AIML-SCAFFOLD](https://github.com/rubyrayjuntos/AIML-SCAFFOLD) |
+| **AI/ML Engineer Academy** | Isolated Python labs, pytest in CI, MCP, optional Grok mentor. | Isolated Labs, pytest, FastAPI, MCP, Grok, React | [AIML-Engineer-Academy](https://github.com/rubyrayjuntos/AIML-Engineer-Academy) |
 
-**Hyperbolic Deep Learning & Protein Research**
-Designing Hyperbolic Graph Neural Networks with Mixture of Experts for protein-ligand binding inference. The architecture leverages non-Euclidean geometry to model hierarchical protein structure, with MoE enabling specialized routing across diverse binding regimes.
+**Kitchen Kontrol** (HACCP ops: PostgreSQL, JWT, Ajv, Express, React) is a private app. Public siblings: [kk-logger](https://github.com/rubyrayjuntos/kk-logger) and [MyKitchen](https://github.com/rubyrayjuntos/MyKitchen). Not a seventh pin.
 
-**Production AI & MLOps**
-Engineering governed, observable AI systems — automated infrastructure (Terraform), CI/CD pipelines (GitHub Actions), model promotion frameworks, and evidence-based deployment on Azure ML and Databricks.
+## Case studies
 
-**Agentic AI Safety**
-State-machine control planes that separate reasoning from execution authority. Guardrails, validation layers, and constraint systems that ensure agent actions align with scientific and corporate standards.
-
-**Full-Stack AI Engineering**
-PyTorch framework design, FastAPI backend services, containerized deployments, and interactive visualization systems built from scratch.
-
----
-
-## Selected Work
-
-| Project | Focus | Stack |
-|---------|-------|-------|
-| **Tokyo Eye** | Hyperbolic GNN platform for protein allostery & ligand binding | PyTorch, HGNN, Python |
-| **Kitchen Kontrol** | Applied AI ops for school nutrition — forecasting, inventory, HITL workflows | React, TypeScript, Node, LLM |
-| **AI/ML Ops Factory** | Enterprise MLOps platform — governed repos, CI/CD, model promotion | Azure ML, Terraform, Databricks, GitHub Actions |
-| **AI/ML Engineer Academy** | Production AI architecture — accuracy contracts, evaluation, rollback, governance | TypeScript, React, Python |
-| **NeuroNote** | Agentic AI safety — state-machine control plane, guardrails | XState, Gemini |
-
----
-
-## Tech Depth
-
-**ML/AI:** PyTorch, Hyperbolic GNNs, MoE, Topological Data Analysis, Protein-Ligand Modeling, LLMs, Multimodal AI
-**MLOps:** Azure ML, Databricks, Terraform, GitHub Actions, Docker, Kubernetes
-**Engineering:** Python, TypeScript, React, Node.js, FastAPI, PostgreSQL
-**Architecture:** Agent Systems, AI Safety, Guardrails, Evaluation Frameworks
-
----
-
-## Currently
-
-Scaling hyperbolic transformer training for protein-ligand binding inference. The model is beginning to show meaningful binding predictions — pushing toward reproducible, production-ready evaluation.
-
----
+[Kitchen Kontrol](https://rubyrayjuntos.github.io/rswan-portfolio/ParallaxThemes.html?project=kitchen-kontrol) · [NeuroNote](https://rubyrayjuntos.github.io/rswan-portfolio/ParallaxThemes.html?project=neuronote) · [Tokyo Eye](https://rubyrayjuntos.github.io/rswan-portfolio/ParallaxThemes.html?project=tokyo-eye) · [Canon Forge](https://rubyrayjuntos.github.io/rswan-portfolio/ParallaxThemes.html?project=canon-forge) · [Factory](https://rubyrayjuntos.github.io/rswan-portfolio/ParallaxThemes.html?project=aiml-ops-factory) · [Academy](https://rubyrayjuntos.github.io/rswan-portfolio/ParallaxThemes.html?project=aiml-engineer-academy)
 
 ## Connect
 
-- [Portfolio](http://rswan.org) — projects, writing, interactive demos
-- [LinkedIn](https://www.linkedin.com/in/ray-swan-b973525/) — professional background
-- [Google Scholar](#) — publications (coming soon)
-
+- [Portfolio](https://rubyrayjuntos.github.io/rswan-portfolio/) — SYSTEMS catalog
+- [LinkedIn](https://www.linkedin.com/in/ray-swan-b973525/)
