@@ -13,13 +13,13 @@ Hiring catalog: [SYSTEMS on GitHub Pages](https://rubyrayjuntos.github.io/rswan-
 | **NeuroNote** | Dual-kernel agent runtime: Guest proposes, gatekeeper verifies, Host is the only path that executes. | PVA / Dual Kernel, QuickJS WASM, Honesty Oracle, Zod, Gemini | [Neuronote](https://github.com/rubyrayjuntos/Neuronote) |
 | **Canon Forge** | Character-reference architect — identity, set, and shot contracts in front of the image/video model. | Identity Lock, Shot Contracts, Gemini, xAI, Veo, Express | [canon-forge](https://github.com/rubyrayjuntos/canon-forge) |
 | **AI/ML Ops Factory** | Terraform generator for governed Azure ML project repos (OIDC CI). | Terraform, Azure ML, OIDC, GitHub Actions, Generator | [AIML-SCAFFOLD](https://github.com/rubyrayjuntos/AIML-SCAFFOLD) |
-| **AI/ML Engineer Academy** | Isolated Python labs, pytest in CI, MCP, optional Grok mentor. | Isolated Labs, pytest, FastAPI, MCP, Grok, React | [AIML-Engineer-Academy](https://github.com/rubyrayjuntos/AIML-Engineer-Academy) |
+| **Governed LoRA Factory** | Local micro-factory for SLM adapters: manifest → LoRA → gated MLflow lineage → registry. Proved on 4GB T1000 (Qwen2-0.5B r=4). | MLflow, PyTorch, PEFT LoRA, Optuna, HF Hub | [governed-lora-factory](https://github.com/rubyrayjuntos/governed-lora-factory) |
 
-**Kitchen Kontrol** (HACCP ops: PostgreSQL, JWT, Ajv, Express, React) is a private app. Public siblings: [kk-logger](https://github.com/rubyrayjuntos/kk-logger) and [MyKitchen](https://github.com/rubyrayjuntos/MyKitchen). Not a seventh pin.
+**Academy** ([AIML-Engineer-Academy](https://github.com/rubyrayjuntos/AIML-Engineer-Academy)) is now in Case Studies — labs remain live. **Kitchen Kontrol** (HACCP ops: PostgreSQL, JWT, Ajv, Express, React) is a private app. Public siblings: [kk-logger](https://github.com/rubyrayjuntos/kk-logger) and [MyKitchen](https://github.com/rubyrayjuntos/MyKitchen). Not a seventh pin.
 
 ## Case studies
 
-[Kitchen Kontrol](https://rubyrayjuntos.github.io/rswan-portfolio/ParallaxThemes.html?project=kitchen-kontrol) · [NeuroNote](https://rubyrayjuntos.github.io/rswan-portfolio/ParallaxThemes.html?project=neuronote) · [Tokyo Eye](https://rubyrayjuntos.github.io/rswan-portfolio/ParallaxThemes.html?project=tokyo-eye) · [Canon Forge](https://rubyrayjuntos.github.io/rswan-portfolio/ParallaxThemes.html?project=canon-forge) · [Factory](https://rubyrayjuntos.github.io/rswan-portfolio/ParallaxThemes.html?project=aiml-ops-factory) · [Academy](https://rubyrayjuntos.github.io/rswan-portfolio/ParallaxThemes.html?project=aiml-engineer-academy)
+[Kitchen Kontrol](https://rubyrayjuntos.github.io/rswan-portfolio/ParallaxThemes.html?project=kitchen-kontrol) · [NeuroNote](https://rubyrayjuntos.github.io/rswan-portfolio/ParallaxThemes.html?project=neuronote) · [Tokyo Eye](https://rubyrayjuntos.github.io/rswan-portfolio/ParallaxThemes.html?project=tokyo-eye) · [Canon Forge](https://rubyrayjuntos.github.io/rswan-portfolio/ParallaxThemes.html?project=canon-forge) · [LoRA Factory](https://github.com/rubyrayjuntos/governed-lora-factory) · [Factory](https://rubyrayjuntos.github.io/rswan-portfolio/ParallaxThemes.html?project=aiml-ops-factory) · [Academy](https://rubyrayjuntos.github.io/rswan-portfolio/ParallaxThemes.html?project=aiml-engineer-academy)
 
 ## Connect
 
